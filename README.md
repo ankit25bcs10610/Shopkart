@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/kartikeyajay2006/2nd-Year-MERN-P_S/actions/workflows/ci.yml"><img src="https://github.com/kartikeyajay2006/2nd-Year-MERN-P_S/actions/workflows/ci.yml/badge.svg" alt="ShopKart checks" /></a>
+  <a href="https://github.com/ankit25bcs10610/Shopkart/actions/workflows/ci.yml"><img src="https://github.com/ankit25bcs10610/Shopkart/actions/workflows/ci.yml/badge.svg" alt="ShopKart checks" /></a>
   <img src="https://img.shields.io/badge/React-18-243e2e?style=flat-square&logo=react&logoColor=d9edac" alt="React 18" />
   <img src="https://img.shields.io/badge/Vite-6-243e2e?style=flat-square&logo=vite&logoColor=d9edac" alt="Vite 6" />
   <img src="https://img.shields.io/badge/Express-5-243e2e?style=flat-square&logo=express&logoColor=d9edac" alt="Express 5" />
